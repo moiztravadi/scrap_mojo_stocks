@@ -13,13 +13,13 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-### Run this command to get all stocks in CSV
+### get all stocks in **CSV**
 
 ```
 scrapy crawl getall -o stocks.csv
 ```
 
-### Run this command to get all stocks in JSON
+### get all stocks in **JSON**
 
 ```
 scrapy crawl getall -o stocks.json
