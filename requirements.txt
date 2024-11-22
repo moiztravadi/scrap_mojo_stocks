@@ -1,1 +1,5 @@
-scrapy
+scrapy==2.7.1
+xmltodict
+python-dateutil==2.8.2
+mysql-connector-python
+Twisted==22.10.0
